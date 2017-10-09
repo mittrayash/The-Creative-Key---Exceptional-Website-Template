@@ -1,0 +1,32 @@
+.main-sidebar,
+.left-side {
+    width: 270px !important;
+}
+
+.content-wrapper,
+ .right-side,
+ .main-footer {
+    margin-left: 275px !important;
+}
+
+
+ul.treeview-menu {
+    min-width: 240px !important;
+}
+
+li.treeview span {
+    width: 240px !important;
+}
+
+.skin-blue .sidebar-menu>li>.treeview-menu{
+width:100% !important;
+}
+
+.skin-blue .main-header .logo{
+width:275px;
+}
+
+.main-header>.navbar{
+margin-left : 275px;
+}
+

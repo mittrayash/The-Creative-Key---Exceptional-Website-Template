@@ -1,0 +1,223 @@
+[06-Mar-2017 08:07:58 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 33
+[06-Mar-2017 08:08:02 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 08:08:02 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 08:08:02 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 08:08:02 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 08:25:40 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 08:25:40 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 08:25:40 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 08:25:40 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 09:07:57 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 33
+[06-Mar-2017 09:09:48 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 33
+[06-Mar-2017 09:09:56 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 09:09:56 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 09:09:56 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 09:09:56 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 09:10:58 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 33
+[06-Mar-2017 09:11:03 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 09:11:03 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 09:11:03 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 09:11:03 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 09:13:39 UTC] PHP Notice:  Undefined variable: target_file in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[06-Mar-2017 09:13:39 UTC] PHP Notice:  Undefined variable: target_file1 in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[06-Mar-2017 09:13:39 UTC] PHP Warning:  pathinfo() expects at most 2 parameters, 3 given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[06-Mar-2017 09:13:39 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 41
+[06-Mar-2017 09:18:40 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 09:18:40 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 09:18:40 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 09:18:40 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 09:48:04 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 09:48:04 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 09:48:04 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 09:48:04 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 15:20:59 Asia/Kolkata] PHP Notice:  Undefined variable: user in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 4
+[06-Mar-2017 15:20:59 Asia/Kolkata] PHP Fatal error:  Call to a member function is_logged_in() on null in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 4
+[06-Mar-2017 15:21:00 Asia/Kolkata] PHP Notice:  Undefined variable: user in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 4
+[06-Mar-2017 15:21:00 Asia/Kolkata] PHP Fatal error:  Call to a member function is_logged_in() on null in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 4
+[06-Mar-2017 15:21:03 Asia/Kolkata] PHP Notice:  Undefined variable: user in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 4
+[06-Mar-2017 15:21:03 Asia/Kolkata] PHP Fatal error:  Call to a member function is_logged_in() on null in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 4
+[06-Mar-2017 09:52:25 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 09:52:25 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 09:52:25 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 09:52:25 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 09:56:15 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 09:56:15 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 09:56:15 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 09:56:15 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 09:59:00 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 09:59:00 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 09:59:00 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 09:59:00 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 10:03:05 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 10:03:05 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 10:03:05 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 10:03:05 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 10:04:17 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 10:04:17 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 10:04:17 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 10:04:17 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 10:06:33 UTC] PHP Notice:  Undefined index: postDesc in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 22
+[06-Mar-2017 10:06:33 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 33
+[06-Mar-2017 10:06:37 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 10:06:37 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 10:06:37 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 10:06:37 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 10:08:50 UTC] PHP Notice:  Undefined index: postDesc in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 22
+[06-Mar-2017 10:08:50 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 33
+[06-Mar-2017 10:08:54 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 10:08:54 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 10:08:54 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 10:08:54 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 10:10:09 UTC] PHP Notice:  Undefined index: postDesc in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 22
+[06-Mar-2017 10:10:09 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kunwaraabid567/public_html/thecreativekey.com/admin/insertblog.php on line 33
+[06-Mar-2017 10:10:15 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 10:10:15 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 10:10:15 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 10:10:15 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 10:11:27 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 10:11:27 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 10:11:27 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 10:11:27 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 10:11:37 UTC] PHP Notice:  Undefined index: postCont in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updateblog1.php on line 26
+[06-Mar-2017 10:11:46 UTC] PHP Notice:  Undefined index: postCont in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updateblog1.php on line 26
+[06-Mar-2017 10:12:58 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 3
+[06-Mar-2017 10:12:58 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 4
+[06-Mar-2017 10:12:58 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 5
+[06-Mar-2017 10:12:58 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteblog.php on line 6
+[06-Mar-2017 10:13:06 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 10:13:06 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 10:13:06 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 10:13:06 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 10:14:02 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 10:14:02 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 10:14:02 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 10:14:02 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 11:41:11 UTC] PHP Notice:  Undefined index: postCont in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updateblog1.php on line 26
+[06-Mar-2017 11:41:55 UTC] PHP Notice:  Undefined index: postCont in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updateblog1.php on line 26
+[06-Mar-2017 12:01:10 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:01:10 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:01:10 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:01:10 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:01:13 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:01:13 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:01:13 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:01:13 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:31:00 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:31:00 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:31:00 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:31:00 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:31:02 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:31:02 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:31:02 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:31:02 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:31:04 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:31:04 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:31:04 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:31:04 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:31:05 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:31:05 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:31:05 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:31:05 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:31:06 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:31:06 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:31:06 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:31:06 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:31:08 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:31:08 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:31:08 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:31:08 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:31:09 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:31:09 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:31:09 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:31:09 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 12:31:10 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[06-Mar-2017 12:31:10 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[06-Mar-2017 12:31:10 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[06-Mar-2017 12:31:10 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[06-Mar-2017 13:35:26 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deletetest.php on line 3
+[06-Mar-2017 13:35:26 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deletetest.php on line 4
+[06-Mar-2017 13:35:26 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deletetest.php on line 5
+[06-Mar-2017 13:35:26 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deletetest.php on line 6
+[08-Mar-2017 19:21:15 UTC] PHP Notice:  Undefined variable: target_file in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[08-Mar-2017 19:21:15 UTC] PHP Notice:  Undefined variable: target_file1 in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[08-Mar-2017 19:21:15 UTC] PHP Warning:  pathinfo() expects at most 2 parameters, 3 given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[08-Mar-2017 19:21:15 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 41
+[14-Mar-2017 04:40:06 UTC] PHP Notice:  Undefined variable: target_file in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[14-Mar-2017 04:40:06 UTC] PHP Notice:  Undefined variable: target_file1 in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[14-Mar-2017 04:40:06 UTC] PHP Warning:  pathinfo() expects at most 2 parameters, 3 given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 35
+[14-Mar-2017 04:40:06 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/updatetest1.php on line 41
+[15-Apr-2017 05:40:07 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[15-Apr-2017 05:40:07 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[15-Apr-2017 05:40:07 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[15-Apr-2017 05:40:07 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[17-Apr-2017 08:11:13 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[17-Apr-2017 08:11:13 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[17-Apr-2017 08:11:13 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[17-Apr-2017 08:11:13 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[18-Apr-2017 07:15:59 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 3
+[18-Apr-2017 07:15:59 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 4
+[18-Apr-2017 07:15:59 UTC] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 5
+[18-Apr-2017 07:15:59 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/kunwaraabid567/public_html/thecreativekey.com/admin/deleteteam.php on line 6
+[09-Jun-2017 10:07:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[09-Jun-2017 10:07:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[09-Jun-2017 10:07:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[09-Jun-2017 10:08:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[09-Jun-2017 10:08:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[09-Jun-2017 10:08:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[09-Jun-2017 10:08:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/testimonials.php on line 92
+[09-Jun-2017 10:08:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/testimonials.php on line 95
+[09-Jun-2017 10:08:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/testimonials.php on line 95
+[09-Jun-2017 10:08:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 94
+[09-Jun-2017 10:08:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[09-Jun-2017 10:08:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[09-Jun-2017 10:08:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[09-Jun-2017 10:08:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[09-Jun-2017 10:08:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[09-Jun-2017 10:08:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[09-Jun-2017 10:08:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[09-Jun-2017 10:08:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[12-Jun-2017 09:54:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 94
+[12-Jun-2017 09:54:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[12-Jun-2017 09:54:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[12-Jun-2017 09:55:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[12-Jun-2017 09:55:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[12-Jun-2017 09:55:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[12-Jun-2017 09:55:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[12-Jun-2017 09:55:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[12-Jun-2017 09:55:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[12-Jun-2017 09:55:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[12-Jun-2017 09:55:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[12-Jun-2017 09:55:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[12-Jun-2017 09:55:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/testimonials.php on line 92
+[12-Jun-2017 09:55:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/testimonials.php on line 95
+[12-Jun-2017 09:55:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/testimonials.php on line 95
+[12-Jun-2017 09:55:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 94
+[12-Jun-2017 09:55:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[12-Jun-2017 09:55:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[12-Jun-2017 09:55:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[12-Jun-2017 09:55:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[12-Jun-2017 09:55:23 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[13-Jun-2017 07:23:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 94
+[13-Jun-2017 07:23:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[13-Jun-2017 07:23:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[13-Jun-2017 07:23:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 94
+[13-Jun-2017 07:23:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[13-Jun-2017 07:23:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[24-Jun-2017 06:35:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[24-Jun-2017 06:35:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[24-Jun-2017 06:35:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[24-Jun-2017 06:35:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[24-Jun-2017 06:35:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[24-Jun-2017 06:35:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[24-Jun-2017 06:42:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[24-Jun-2017 06:42:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[24-Jun-2017 06:42:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[29-Jun-2017 08:37:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[29-Jun-2017 08:37:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[29-Jun-2017 08:37:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[29-Jun-2017 08:38:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 93
+[29-Jun-2017 08:38:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[29-Jun-2017 08:38:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/memberpage.php on line 96
+[29-Jun-2017 08:38:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kunwaraabid567'@'localhost' (using password: YES) in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 94
+[29-Jun-2017 08:38:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
+[29-Jun-2017 08:38:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kunwaraabid567/public_html/thecreativekey.com/admin/addmembers.php on line 97
