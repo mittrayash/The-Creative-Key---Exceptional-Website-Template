@@ -2,7 +2,9 @@
 An exquisite website template with beautifully designed and strongly implemented code. This website uses PHP for back-end purposes.
 
 This is a complete website template with back-end and front-end integrated into php files. The website has been built for smooth customer experience and it integrates blogs using Wordpress.
-I hope to buy a hosting service and put this website up for review soon, given that this is one of my best works, I believe.  
+ 
+
+_Update: Find the website live at: https://thecreativekey.000webhostapp.com/_
   
 ## SQL Files and Tables
 
