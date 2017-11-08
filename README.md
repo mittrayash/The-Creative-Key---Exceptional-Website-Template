@@ -1,7 +1,7 @@
 # The-Creative-Key---Exceptional-Website-Template
 An exquisite website template with beautifully designed and strongly implemented code. This website uses PHP for back-end purposes.
 
-This is a complete website template with back-end and front-end integrated into php files. The website has been built for smooth customer experience and it integrates blogs using Wordpress.
+This is a complete website template with back-end and front-end integrated into php files. The website has been built for smooth customer experience and it integrates blogs using Wordpress. Also, since this project was made during my internship, I and I was unable to synchronize the project (and a few others) with my github. (Given that I recently started using GitHub. 
  
 
 _Update: Find the website live at: https://thecreativekey.000webhostapp.com/_
